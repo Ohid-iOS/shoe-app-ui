@@ -6,7 +6,7 @@ import SwiftUI
 struct ShoeAppFigmaTutApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
